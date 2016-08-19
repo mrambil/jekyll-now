@@ -21,15 +21,15 @@ footer-links:
   email: mrambil@gmail.com
   facebook:
   flickr:
-  github: http://www.github.com/mrambil
+  github: mrambil
   instagram:
-  linkedin: http://www.linkedin.com/in/mohamed-rambil
-  pinterest: http://www.pinterest.com/mrambil
+  linkedin: mohamed-rambil
+  pinterest: mrambil
   rss: # just type anything here for a working RSS icon
   twitter: mrambil
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: http://plus.google.com/+MohamedRambil
+  googleplus: +MohamedRambil
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
